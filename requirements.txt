@@ -1,0 +1,9 @@
+# conda create -p venv python=3.11 -y
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+ipykernel
